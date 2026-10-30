@@ -1,5 +1,13 @@
 # hermes-agent-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/hermes-agent-on-nixos-or-just-updated-se?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Hermes Agent on NixOS template](https://railway.com/deploy/hermes-agent-on-nixos-or-just-updated-se?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/hermes-agent-or-openclaw-alternative-not?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Hermes Agent template](https://railway.com/deploy/hermes-agent-or-openclaw-alternative-not?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway-tuned build of [Nous Research's Hermes Agent](https://github.com/NousResearch/hermes-agent).
 Same official image underneath (`nousresearch/hermes-agent`), wrapped so a Railway deploy needs
 **no configuration**: the dashboard follows Railway's assigned `$PORT`, the platform env is baked
